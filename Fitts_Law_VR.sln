@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitts_Law_VR.CSharp", "Fitts_Law_VR.CSharp.csproj", "{73E90AC8-1433-26AD-D6FC-508116284CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitts_Law_VR.CSharp.Editor", "Fitts_Law_VR.CSharp.Editor.csproj", "{E9445A42-0E85-E41E-0185-F0A168ECA232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E90AC8-1433-26AD-D6FC-508116284CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E90AC8-1433-26AD-D6FC-508116284CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E90AC8-1433-26AD-D6FC-508116284CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E90AC8-1433-26AD-D6FC-508116284CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9445A42-0E85-E41E-0185-F0A168ECA232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9445A42-0E85-E41E-0185-F0A168ECA232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9445A42-0E85-E41E-0185-F0A168ECA232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9445A42-0E85-E41E-0185-F0A168ECA232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
